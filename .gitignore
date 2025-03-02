@@ -1,3 +1,6 @@
+# exclude shapefiles or repo is too big
+shapefiles/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,132 @@
+State,"State name",County,"County name",Year,Month,Commodity,"Cause of loss (partial list)","Payment indemnity (US$)"
+06,California,011,Colusa,2020,2,Wheat,Drought,1610.00
+06,California,021,Glenn,2020,2,Wheat,Drought,42377.00
+06,California,045,Mendocino,2020,4,Grapes,Drought,10836.00
+06,California,067,Sacramento,2020,2,Barley,Drought,3557.00
+06,California,095,Solano,2020,4,Triticale,Drought,21143.00
+06,California,095,Solano,2020,2,Barley,Drought,66312.00
+06,California,095,Solano,2020,2,Wheat,Drought,99313.00
+06,California,095,Solano,2020,2,Triticale,Drought,43612.00
+06,California,107,Tulare,2020,2,Wheat,Drought,809.00
+06,California,107,Tulare,2020,3,Wheat,Drought,4921.00
+06,California,107,Tulare,2020,1,Wheat,Drought,21835.00
+06,California,113,Yolo,2020,2,Wheat,Drought,3046.00
+06,California,113,Yolo,2020,4,Barley,Drought,2641.00
+06,California,007,Butte,2021,4,"All Other Crops",Drought,2613.00
+06,California,007,Butte,2021,3,"All Other Crops",Drought,22210.00
+06,California,011,Colusa,2021,3,Wheat,Drought,14457.00
+06,California,011,Colusa,2021,4,Wheat,Drought,6472.00
+06,California,013,"Contra Costa",2021,9,Grapes,Drought,79539.00
+06,California,017,"El Dorado",2021,8,Grapes,Drought,109777.60
+06,California,017,"El Dorado",2021,6,Grapes,Drought,28968.00
+06,California,021,Glenn,2021,2,Wheat,Drought,74959.00
+06,California,029,Kern,2021,1,Wheat,Drought,13098.00
+06,California,029,Kern,2021,3,Wheat,Drought,13098.00
+06,California,029,Kern,2021,2,Wheat,Drought,13098.00
+06,California,031,Kings,2021,9,Wheat,Drought,69489.80
+06,California,031,Kings,2021,10,Wheat,Drought,69489.80
+06,California,031,Kings,2021,11,Wheat,Drought,277959.20
+06,California,041,Marin,2021,9,"All Other Crops",Drought,8680.00
+06,California,041,Marin,2021,6,"All Other Crops",Drought,20884.00
+06,California,041,Marin,2021,5,"All Other Crops",Drought,4665.00
+06,California,041,Marin,2021,8,"All Other Crops",Drought,21444.00
+06,California,045,Mendocino,2021,9,Grapes,Drought,968652.20
+06,California,045,Mendocino,2021,7,Grapes,Drought,256506.00
+06,California,045,Mendocino,2021,8,Grapes,Drought,565753.10
+06,California,045,Mendocino,2021,6,Grapes,Drought,575221.80
+06,California,045,Mendocino,2021,4,Grapes,Drought,1850591.00
+06,California,055,Napa,2021,11,Grapes,Drought,1031885.00
+06,California,055,Napa,2021,1,Grapes,Drought,846563.10
+06,California,055,Napa,2021,6,Grapes,Drought,2166063.50
+06,California,055,Napa,2021,7,Grapes,Drought,786396.00
+06,California,055,Napa,2021,8,Grapes,Drought,1604468.70
+06,California,055,Napa,2021,4,Grapes,Drought,934239.90
+06,California,055,Napa,2021,10,Grapes,Drought,1642135.00
+06,California,055,Napa,2021,9,Grapes,Drought,90650.00
+06,California,055,Napa,2021,2,Grapes,Drought,87363.90
+06,California,065,Riverside,2021,12,Wheat,Drought,62486.60
+06,California,065,Riverside,2021,2,Wheat,Drought,79493.10
+06,California,065,Riverside,2021,1,Wheat,Drought,79493.10
+06,California,065,Riverside,2021,4,Wheat,Drought,475722.00
+06,California,065,Riverside,2021,3,Wheat,Drought,17006.50
+06,California,065,Riverside,2021,5,Wheat,Drought,5495.00
+06,California,067,Sacramento,2021,1,Triticale,Drought,4448.00
+06,California,067,Sacramento,2021,4,Barley,Drought,6267.00
+06,California,079,"San Luis Obispo",2021,8,Grapes,Drought,257.00
+06,California,079,"San Luis Obispo",2021,5,Barley,Drought,15904.00
+06,California,079,"San Luis Obispo",2021,3,Barley,Drought,17185.00
+06,California,079,"San Luis Obispo",2021,1,Barley,Drought,342669.00
+06,California,079,"San Luis Obispo",2021,2,Barley,Drought,94533.00
+06,California,079,"San Luis Obispo",2021,6,Barley,Drought,43104.00
+06,California,095,Solano,2021,2,Wheat,Drought,423139.00
+06,California,095,Solano,2021,2,Triticale,Drought,343464.00
+06,California,095,Solano,2021,2,Barley,Drought,273238.00
+06,California,095,Solano,2021,4,Barley,Drought,7203.00
+06,California,095,Solano,2021,4,Triticale,Drought,2195.00
+06,California,097,Sonoma,2021,7,Grapes,Drought,630812.00
+06,California,097,Sonoma,2021,5,Grapes,Drought,234176.57
+06,California,097,Sonoma,2021,9,Grapes,Drought,2582539.00
+06,California,097,Sonoma,2021,10,Grapes,Drought,270046.00
+06,California,097,Sonoma,2021,8,Grapes,Drought,2445146.90
+06,California,097,Sonoma,2021,6,Grapes,Drought,2297517.60
+06,California,097,Sonoma,2021,4,Grapes,Drought,220949.77
+06,California,097,Sonoma,2021,3,Grapes,Drought,20273.86
+06,California,097,Sonoma,2021,11,Grapes,Drought,32282.00
+06,California,103,Tehama,2021,6,"All Other Crops",Drought,373.00
+06,California,103,Tehama,2021,1,"All Other Crops",Drought,101949.00
+06,California,103,Tehama,2021,2,"All Other Crops",Drought,62877.00
+06,California,107,Tulare,2021,3,Wheat,Drought,172634.50
+06,California,107,Tulare,2021,2,Wheat,Drought,86346.50
+06,California,107,Tulare,2021,1,Wheat,Drought,4661.50
+06,California,107,Tulare,2021,3,Barley,Drought,6812.00
+06,California,113,Yolo,2021,3,Wheat,Drought,122121.00
+06,California,113,Yolo,2021,4,Triticale,Drought,1121.00
+06,California,113,Yolo,2021,4,Wheat,Drought,56316.00
+06,California,113,Yolo,2021,3,Barley,Drought,7077.00
+06,California,097,Sonoma,2022,9,Grapes,Drought,382.60
+06,California,097,Sonoma,2022,6,Grapes,Drought,43640.50
+06,California,045,Mendocino,2022,8,Grapes,Drought,1156.60
+06,California,045,Mendocino,2022,6,Grapes,Drought,2259.60
+06,California,055,Napa,2022,10,Grapes,Drought,0.00
+06,California,097,Sonoma,2022,4,Grapes,Drought,158404.80
+06,California,079,"San Luis Obispo",2022,7,Grapes,Drought,2422.75
+06,California,055,Napa,2022,9,Grapes,Drought,25013.70
+06,California,107,Tulare,2022,12,Wheat,Drought,967.20
+06,California,055,Napa,2022,2,Grapes,Drought,19890.00
+06,California,065,Riverside,2022,9,Wheat,Drought,1632.20
+06,California,107,Tulare,2022,7,Wheat,Drought,11958.00
+06,California,055,Napa,2022,8,Grapes,Drought,56015.00
+06,California,103,Tehama,2022,2,"All Other Crops",Drought,17259.40
+06,California,103,Tehama,2022,1,"All Other Crops",Drought,17259.40
+06,California,103,Tehama,2022,3,"All Other Crops",Drought,17259.40
+06,California,097,Sonoma,2022,3,Grapes,Drought,429985.00
+06,California,107,Tulare,2022,2,Wheat,Drought,37416.91
+06,California,107,Tulare,2022,1,Wheat,Drought,37147.58
+06,California,053,Monterey,2022,6,"All Other Crops",Drought,1344.00
+06,California,097,Sonoma,2022,8,Grapes,Drought,155129.70
+06,California,107,Tulare,2022,2,Barley,Drought,967.23
+06,California,107,Tulare,2022,1,Barley,Drought,967.23
+06,California,107,Tulare,2022,3,Barley,Drought,996.54
+06,California,113,Yolo,2022,4,Wheat,Drought,2544.00
+06,California,079,"San Luis Obispo",2022,1,"All Other Crops",Drought,4176.00
+06,California,079,"San Luis Obispo",2022,4,Barley,Drought,71926.30
+06,California,045,Mendocino,2022,5,Grapes,Drought,82825.60
+06,California,065,Riverside,2022,10,Wheat,Drought,11425.40
+06,California,113,Yolo,2022,3,Wheat,Drought,3212.00
+06,California,045,Mendocino,2022,2,Grapes,Drought,160465.00
+06,California,065,Riverside,2022,11,Wheat,Drought,16322.00
+06,California,097,Sonoma,2022,2,Grapes,Drought,231316.00
+06,California,029,Kern,2022,2,Wheat,Drought,6104.00
+06,California,055,Napa,2022,6,Grapes,Drought,1191545.00
+06,California,079,"San Luis Obispo",2022,3,Barley,Drought,132606.70
+06,California,113,Yolo,2022,5,Wheat,Drought,8791.00
+06,California,095,Solano,2022,3,Triticale,Drought,72781.00
+06,California,021,Glenn,2022,1,Wheat,Drought,111165.00
+06,California,065,Riverside,2022,3,Wheat,Drought,11142.00
+06,California,107,Tulare,2022,3,Wheat,Drought,28403.31
+06,California,095,Solano,2022,2,Wheat,Drought,142036.00
+06,California,079,"San Luis Obispo",2022,5,Barley,Drought,68482.00
+06,California,095,Solano,2022,2,Triticale,Drought,275849.00
+06,California,079,"San Luis Obispo",2022,1,Barley,Drought,169718.00
+06,California,031,Kings,2022,11,Wheat,Drought,1372476.00
+06,California,065,Riverside,2022,5,Wheat,Drought,424557.00
